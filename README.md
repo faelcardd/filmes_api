@@ -13,7 +13,7 @@ O projeto "Meus Filmes Favoritos" é um script Python que permite aos usuários 
 ## Como Usar
 
 1. Clone este repositório em seu ambiente local.
-2. Execute o script `filmes_api.py`.
+2. Execute o script `desafiov4.py`.
 3. Siga as opções do menu para pesquisar filmes, adicionar filmes aos favoritos ou listar filmes favoritos.
 
 ## Pré-requisitos
